@@ -1,0 +1,28 @@
+name: lisalow
+favicon: null
+layout_spectrum: 0.7703038316685706
+typography_spectrum: 0.864249337464571
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5189519862178713
+  lightness: 0.040202896343544126
+  saturation: 0.5667376727797091
+  rhythmicContrast: 0.8079170789569616
+purpose: []
